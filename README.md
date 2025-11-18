@@ -35,7 +35,7 @@ Interactive guided mode to set up a scan step-by-step.
 
 ## 🖼️ Banner
 <p align="center">
-<img src="Images/Banner.png" alt="Banner-preview">
+<img src="[Images/Banner.png](https://github.com/Debajyoti0-0/No4bidden/blob/main/Images/Banner.png)" alt="Banner-preview">
 </p>
 
 ## 🛠️ Installation
