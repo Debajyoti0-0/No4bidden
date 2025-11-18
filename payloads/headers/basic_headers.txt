@@ -1,0 +1,17 @@
+# Basic Bypass Headers
+X-Original-URL
+X-Rewrite-URL
+X-Forwarded-For: 127.0.0.1
+X-Forwarded-Host: 127.0.0.1
+X-Real-IP: 127.0.0.1
+X-Custom-IP-Authorization: 127.0.0.1
+X-Originating-IP: 127.0.0.1
+X-Remote-IP: 127.0.0.1
+X-Remote-Addr: 127.0.0.1
+X-Client-IP: 127.0.0.1
+X-Host: 127.0.0.1
+Referer
+X-Forwarded-Proto: http
+X-Forwarded-Proto: https
+X-Forwarded-Port: 80
+X-Forwarded-Port: 443
