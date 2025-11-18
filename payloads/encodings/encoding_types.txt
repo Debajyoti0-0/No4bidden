@@ -1,0 +1,12 @@
+# URL Encoding Types
+url
+double-url
+base64
+unicode
+html
+utf8
+utf16
+utf32
+html-entity
+hex
+binary
