@@ -76,6 +76,52 @@ python3 No4bidden.py -u https://example.com/admin
 python3 No4bidden.py --wizard
 ```
 
+### ⚛︎ Options
+
+```bash
+No4bidden - 40X Bypass Tool
+
+options:
+  -u, --url URL         🎯 Target URL to test
+  -r, --request-file REQUEST_FILE
+                        📂 Load HTTP request from a file
+  -p, --payload-dir PAYLOAD_DIR
+                        📁 Custom payload directory
+  -m, --method METHOD   📝 HTTP method (default: GET)
+  -H, --header HEADER   📋 Custom headers
+  -x, --proxy PROXY     🔌 Proxy server
+  -t, --timeout TIMEOUT
+                        ⏱️ Timeout in ms (default: 10000)
+  -d, --delay DELAY     💤 Delay between requests in ms (default: 0)
+  --redirect            🔄 Follow redirects
+  -i, --bypass-ip BYPASS_IP
+                        🌐 Custom IP for bypass headers
+  -a, --user-agent USER_AGENT
+                        👤 Custom User-Agent
+  --random-agent        🎲 Use random User-Agent
+  --threads THREADS     ⚡ Number of threads (default: 50)
+  --rate-limit          🚫 Stop on rate limit detection
+  -s, --status-codes STATUS_CODES
+                        📊 Filter by status codes (comma-separated)
+  --output-format {text,json}
+                        📄 Output format
+  --unique              🔍 Show only unique responses
+  -v, --verbose         📢 Verbose output
+  --no-banner           🚫 Hide banner
+  -h, --help            ❓ Show help message
+
+Miscellaneous:
+  These options do not fit into any other category
+
+  --wizard              🧙 Simple wizard interface for beginner users
+
+Examples:
+  🎯 python3 No4bidden.py -u https://example.com/admin
+  📂 python3 No4bidden.py -u https://example.com -r request.txt
+  🔌 python3 No4bidden.py -u https://example.com -x http://127.0.0.1:8080 -v
+  🧙 python3 No4bidden.py --wizard
+```
+
 ### 🔧 Advanced Examples
 
 | Command                                                 | Description                                         |
