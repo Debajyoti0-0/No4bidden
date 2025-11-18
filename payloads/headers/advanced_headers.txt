@@ -1,0 +1,20 @@
+# Advanced Bypass Headers
+X-Forwarded-For: localhost
+X-Forwarded-Host: localhost
+X-Real-IP: localhost
+X-Client-IP: localhost
+X-Originating-IP: localhost
+X-Remote-IP: localhost
+X-Remote-Addr: localhost
+X-Custom-IP-Authorization: localhost
+X-Forwarded-Server: 127.0.0.1
+X-Forwarded-Scheme: http
+X-Forwarded-Scheme: https
+X-Proxy-URL
+X-Rewrite-URL
+X-Original-URL
+Base-Url:
+X-Original-Remote-Addr: 127.0.0.1
+X-Original-Remote-IP: 127.0.0.1
+True-Client-IP: 127.0.0.1
+CF-Connecting-IP: 127.0.0.1
