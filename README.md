@@ -3,7 +3,6 @@
 _No4bidden_ is a powerful penetration-testing utility designed to identify and exploit **HTTP 40X (Forbidden/Unauthorized)** bypass misconfigurations.  
 Inspired by **Janus**, the Roman god of gates and transitions, No4bidden sees paths where others only see walls.
 
----
 <p align="center">
 <img src="https://github.com/Debajyoti0-0/No4bidden/blob/main/Images/Logo.png" alt="No4bidden Tool Logo">
 </p>
