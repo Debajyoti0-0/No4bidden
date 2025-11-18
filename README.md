@@ -43,8 +43,6 @@ Interactive guided mode to set up a scan step-by-step.
 - Python **3.x**
 - `requests` library
 
----
-
 ### 1. Clone the repository
 
 ```bash
@@ -99,7 +97,6 @@ python3 No4bidden.py --wizard
 | 🔣 DOUBLE-ENCODING | `encoding_` | Tests `%2f`, `%252f`, Unicode, Base64 encoded paths  |
 | 🌐 HTTP VERSIONS   | `http_`     | Non-standard or tampered HTTP versions               |
 
----
 
 ## 🤝 Contributing
 We welcome contributions!
