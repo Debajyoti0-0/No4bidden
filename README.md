@@ -110,15 +110,12 @@ Areas for contribution:
 - Improved output formatting
 - Enhanced detection heuristics
 
----
 
 ### ⭐ Support
 If this project helps you, consider giving it a ⭐ star on GitHub.
 
----
 
 ### 🧑‍💻 Author
 #### Debajyoti0-0
 “Opening gates where others see only walls.” ⚔️
-
 ---
