@@ -5,7 +5,7 @@ Inspired by **Janus**, the Roman god of gates and transitions, No4bidden sees pa
 
 ---
 <p align="center">
-<img src="Images/logo.png" alt="No4bidden Tool Logo">
+<img src="https://github.com/Debajyoti0-0/No4bidden/Images/Logo.png" alt="No4bidden Tool Logo">
 </p>
 
 ## 🔐 Key Features
