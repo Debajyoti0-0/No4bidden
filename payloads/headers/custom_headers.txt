@@ -1,0 +1,14 @@
+# Custom Headers for Specific Applications
+X-Forwarded-For: 192.168.1.1
+X-Forwarded-For: 10.0.0.1
+X-Forwarded-For: 0.0.0.0
+X-Forwarded-For: 255.255.255.255
+X-Forwarded-Host: admin.localhost
+X-Forwarded-Host: localhost.localdomain
+X-Original-URL: /admin
+X-Rewrite-URL: /admin
+X-Override-URL: /
+X-HTTP-Method-Override: GET
+X-Method-Override: GET
+X-HTTP-Method: GET
+X-Http-Method-Override: GET
